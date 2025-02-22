@@ -1,0 +1,6 @@
+# Ignore node_modules in both frontend and backend
+frontend/node_modules/
+backend/node_modules/
+
+# Or ignore all node_modules folders recursively
+node_modules/
